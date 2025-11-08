@@ -1,0 +1,5 @@
+{
+  "name": "AI Studio Hub",
+  "description": "An all-in-one AI Image Tool platform that allows users to upscale, remove backgrounds, expand images, generate characters, create videos from photos, and more, all powered by Google's Gemini API.",
+  "requestFramePermissions": []
+}
